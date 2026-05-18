@@ -6,3 +6,4 @@
   - [Code in Github](/free_ocr_model_running_incollab.ipynb) 
   - [Code in Collab](https://colab.research.google.com/github/Adithyenkandasamy/My-Perspective/blob/main/free_ocr_model_running_incollab.ipynb)
 
+idahsuzx
