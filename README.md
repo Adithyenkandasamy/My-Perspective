@@ -8,3 +8,4 @@
 - Code for Changing the Big Commands(git add .|git commit -m ""| gitpush| git status| git pull) to shortcuts as (ga|gc ""|gp|gs|gpl ):
   - Take this code and run in yout linux machine that can make the changes in the config in single run.
   - [Code for Git-Shortcuts](/git_shortcut_setting_for%20_three.py) 
+  
